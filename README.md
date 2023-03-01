@@ -1,4 +1,4 @@
-# 3D visualizations of results presented in "Development and evaluation of an AI-based approach for path planning of aerial vehicles", a thesis by Lukas Mattenklodt
+3D visualizations of results presented in "Development and evaluation of an AI-based approach for path planning of aerial vehicles", a thesis by Lukas Mattenklodt
 
 LIDAR visualization:
 
